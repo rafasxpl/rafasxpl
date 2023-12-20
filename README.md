@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 ![rafasxpl GitHub stats](https://github-readme-stats.vercel.app/api?username=rafasxpl&show_icons=true&theme=radical)
 
