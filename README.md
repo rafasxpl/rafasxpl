@@ -1,7 +1,5 @@
 ### Olá 👋
 
-![rafasxpl GitHub stats](https://github-readme-stats.vercel.app/api?username=rafasxpl&show_icons=true&theme=radical)
-
 ### Tecnologies
 
 <div style="display: flex; justify-content: center">
